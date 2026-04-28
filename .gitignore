@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+
+# libmicroros — generated locally, see README
+libmicroros/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
