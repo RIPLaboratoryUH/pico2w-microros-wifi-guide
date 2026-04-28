@@ -4,20 +4,9 @@ A minimal working setup for running a [micro-ROS](https://micro.ros.org/) node o
 the Raspberry Pi Pico 2W (or original Pico W) over Wi-Fi via UDP transport. The
 example publishes an incrementing counter to the ROS 2 topic `/pico_counter`.
 
-This repo is intended as a starting point — verify the wireless link works, then
-add your own sensor or actuator logic on top.
-
----
-
-## What this is and isn't
-
-**Is:** A small, self-contained example of a Wi-Fi-connected micro-ROS node
+This repo is a small, self-contained example of a Wi-Fi-connected micro-ROS node
 on the Pico 2W. Includes a working custom UDP transport and the radio
 configuration needed for consistent latency.
-
-**Isn't:** A tutorial on micro-ROS concepts, ROS 2 fundamentals, or sensor
-integration. For those, see [micro.ros.org](https://micro.ros.org/) and the
-[ROS 2 documentation](https://docs.ros.org/).
 
 For the IEEE conference paper this work is associated with — including a
 benchmark of latency, throughput, and reliability across serial vs. Wi-Fi
