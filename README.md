@@ -8,9 +8,8 @@ This repo is a small, self-contained example of a Wi-Fi-connected micro-ROS node
 on the Pico 2W. Includes a working custom UDP transport and the radio
 configuration needed for consistent latency.
 
-For the IEEE conference paper this work is associated with — including a
-benchmark of latency, throughput, and reliability across serial vs. Wi-Fi
-and ad-hoc vs. micro-ROS configurations on the Pico 2W — see the companion
+For the performance data including expected message round-trip-time across serial vs. Wi-Fi
+and ad-hoc vs. micro-ROS configurations, see the companion
 repo: [`pico2w-microros-benchmark`](https://github.com/RIPLaboratoryUH/pico2w-microros-benchmark).
 
 ---
