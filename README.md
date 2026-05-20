@@ -10,7 +10,7 @@ configuration needed for consistent latency.
 
 For the performance data including expected message round-trip-time across serial vs. Wi-Fi
 and ad-hoc vs. micro-ROS configurations, see the companion
-repo: [`pico2w-microros-benchmark`](https://github.com/RIPLaboratoryUH/pico2w-microros-benchmark).
+repo: [`pico2w-microros-benchmark`](https://anonymous.4open.science/status/pico2w-microros-benchmark-7AD6).
 
 ---
 
